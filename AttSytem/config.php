@@ -8,8 +8,8 @@ define("DB_SERVER", "localhost");
 //define("DB_PASSWORD", "");
 
 define("DB_DATABASE", "logistj5_attendance");
-define("DB_USERNAME", "logistj5_root");
-define("DB_PASSWORD", "LOgist@1213");
+define("DB_USERNAME", "mani220300@gmail.com");
+define("DB_PASSWORD", "123");
 
 //define("ROOT", "http://localhost/AttSytem/");
 //define("BaseROOT", "http://localhost/AttSytem/");
